@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Osu-Difficulty-Statistics\osu.Rulesets.Difficulty.Statistics\osu.Rulesets.Difficulty.Statistics.csproj" />
+      <ProjectReference Include="..\tau\osu.Game.Rulesets.Tau\osu.Game.Rulesets.Tau.csproj" />
+    </ItemGroup>
+
+</Project>

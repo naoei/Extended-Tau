@@ -1,0 +1,7 @@
+[submodule "tau"]
+	path = tau
+	url = https://github.com/taulazer/tau.git
+    branch = diff-calc
+[submodule "Osu-Difficulty-Statistics"]
+	path = Osu-Difficulty-Statistics
+	url = https://github.com/taulazer/Osu-Difficulty-Statistics.git
